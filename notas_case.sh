@@ -1,9 +1,9 @@
 #!/bin/bash
 #PROGRAMA PARA VALIDAR LAS NOTAS DE UN ALUMNO
 
-echo "================================"
+echo "==================================="
 read -p "Introduzca el valor de la nota: " n2
-echo "================================"
+echo "==================================="
 case $n2 in
 	10)
 		echo "Tienes un excelente";;
