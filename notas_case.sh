@@ -2,7 +2,7 @@
 #PROGRAMA PARA VALIDAR LAS NOTAS DE UN ALUMNO
 
 echo "==================================="
-read -p "Introduzca el valor de la nota: " n2
+read -p "Introduzca el valor de la notas: " n2
 echo "==================================="
 case $n2 in
 	10)
