@@ -2,8 +2,7 @@
 
 <img src="/img/linux.png"
  width="200"
- heigth=""
- >
+ heigth="">
 
 
 ## shell script
