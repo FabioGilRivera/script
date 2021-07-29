@@ -1,6 +1,7 @@
 # SCRIPT Y COMANDOS LINUX
 
-![the Linux mascot](http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png)
+<img src=http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png>
+
 
 ## shell script
 
