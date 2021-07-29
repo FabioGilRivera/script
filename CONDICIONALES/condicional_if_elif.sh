@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Script para saber si los numeros son divisibles por el RANDOM
 num=$(($RANDOM%100))
 echo $num
 read -p "Introduzca numero 1: " num1

@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Script para saber si es numero par y cual es mayor
 read -p "Introduzca un numero entero: " n1
 if test $(($n1%2)) = 0; then
 	echo "Es un numero par" 

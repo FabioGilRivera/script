@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+# Muestra las tablas de multiplicar del numero dado
 clear
 read -p "Introduce la tabla que quieres ver: " tabla
 echo "======================="
