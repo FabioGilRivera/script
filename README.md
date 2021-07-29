@@ -1,6 +1,9 @@
 # SCRIPT Y COMANDOS LINUX
 
-<img src="/img/linux.png">
+<img src="/img/linux.png"
+ width="200"
+ heigth=""
+ >
 
 
 ## shell script
