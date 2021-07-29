@@ -1,11 +1,11 @@
 # SCRIPT Y COMANDOS LINUX
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![the Linux mascot](http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png)
 
 ## shell script
 
-- [arrays](script_linux/ARRAYS)
-- [Basic](script_linux/BASIC)
-- [Bucles](script_linux/BUCLES)
-- [Case](script_linux/CASE)
-- [Condicion](script_linux/CONDICIONALES)
+- [arrays](https://github.com/christianjmera/script/tree/main/ARRAYS)
+- [Basic](https://github.com/christianjmera/script/blob/main/script_linux/BASIC)
+- [Bucles](https://github.com/christianjmera/script/tree/main/BUCLES)
+- [Case](https://github.com/christianjmera/script/blob/main/script_linux/CASE)
+- [Condicionales](https://github.com/christianjmera/script/blob/main/script_linux/CONDICIONALES)
