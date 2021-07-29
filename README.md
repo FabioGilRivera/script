@@ -1,6 +1,6 @@
 # SCRIPT Y COMANDOS LINUX
 
-<img src=http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png>
+<img src="/img/linux.png">
 
 
 ## shell script
